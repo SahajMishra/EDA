@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn textblob wordcloud
 
 ### ⿣ *Run the analysis*
 bash
-python analysis.py
+python main.py
 
 
 ## Usage 📌
